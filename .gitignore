@@ -131,3 +131,5 @@ dmypy.json
 
 # ml env
 ml_found.env/
+
+#   source ml_found.env/Scripts/activate

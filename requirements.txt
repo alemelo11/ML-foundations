@@ -11,3 +11,19 @@ sympy
 # & C:\Python_Projects\ds_env\Scripts\Activate.ps1
 
 # & C:\Python_Projects\ml-foundations\ml_found.env\Scripts\Activate.ps1
+
+#  source ml_found.env/Scripts/activate
+
+
+''' git clone https://github.com/alemelo11/ml-foundations.git
+
+    cd ml-foundations
+
+    python -m venv ml_found.env
+
+    source ml_found.env/Scripts/activate
+
+    pip install -r requirements.txt
+
+    git pull origin main
+'''
