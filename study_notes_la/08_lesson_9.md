@@ -38,8 +38,9 @@ SVD is a ubiquitous technique for **lossy data compression**, allowing models to
 
 
 <div align="center">
-  <img src="images/Pasted%20image%2020260430072728.png" width="600">
+  <img src="images/Pasted%20image%2020260430120045.png" width="150">
 </div>
+
 
 
 
