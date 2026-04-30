@@ -23,6 +23,7 @@ This final lesson of the "Machine Learning Foundations" series synthesizes prior
   <img src="images/Pasted%20image%2020260430091752.png" width="600">
 </div>
 
+<p align="center"><b>A = UDVᵀ (not Σ) </b></p>
 
 
 
